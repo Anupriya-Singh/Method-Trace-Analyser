@@ -11,11 +11,11 @@ In case of functionality issues, comparing of the data is used for debugging.
 4. Compare code-flow and stack trace for failing and passing case and find anomalies.
 
 #Technology Stack:
-Java
+Java,
 IBM Java Method trace
 
 #Team Details:
-Anupriya Singh  anupriya228@gmail.com
-Jyoti Pandey    jyotipandeyjyoti48@gmail.com
-Ronika Das      ronikadas@gmail.com
-Nidhi Wadhwa    ndhwadhwa60@gmail.com
+Anupriya Singh  (anupriya228@gmail.com)
+Jyoti Pandey    (jyotipandeyjyoti48@gmail.com)
+Ronika Das      (ronikadas@gmail.com)
+Nidhi Wadhwa    (ndhwadhwa60@gmail.com)
