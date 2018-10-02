@@ -18,12 +18,12 @@ WindowBuilder,
 Open JDK with OpenJ9
 
 #Description of files uploaded:
-1. IbmGuiWindow.java - includes java code for GUI
-2. LogAnalysis.java - includes java code for implementation of Method-Trace Analyser
-3. SyncPipe.java - include java code for working of Method- Trace Analyser
-4. ideation document - Documentation consisting of ide
+1. IbmGuiWindow.java - Includes java code for GUI
+2. LogAnalysis.java - Includes java code for implementation of Method-Trace Analyser
+3. SyncPipe.java -  Supporting doc for running Xtrace commands in Command Prompt through Java
+4. ideation document - Documentation consisting of idea
 5. ppt.pdf - Presentation based on idea
-6. undertaking.pdf - Document of Undertaking
+6. undertaking.pdf - Documentation of Undertaking
 7. video.mp4 - Video showing implementation of functionalities
 
 #Team Name: Code Breakers
