@@ -29,7 +29,7 @@ Open JDK with OpenJ9
 #Team Name: Code Breakers
 
 #Team Details:
-Anupriya Singh  (anupriya228@gmail.com)
-Jyoti Pandey    (jyotipandeyjyoti48@gmail.com)
-Ronika Das      (ronikadas@gmail.com)
-Nidhi Wadhwa    (ndhwadhwa60@gmail.com)
+Anupriya Singh  (an
+Jyoti Pandey   
+Ronika Das     
+Nidhi Wadhwa   
