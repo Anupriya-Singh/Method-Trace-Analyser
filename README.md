@@ -30,7 +30,6 @@ Open JDK with OpenJ9
 
 #Team Details:
 Anupriya Singh 
-
 Jyoti Pandey   
 Ronika Das     
 Nidhi Wadhwa   
