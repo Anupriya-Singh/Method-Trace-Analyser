@@ -29,7 +29,7 @@ Open JDK with OpenJ9
 #Team Name: Code Breakers
 
 #Team Details:
-Anupriya Singh  (an
+Anupriya Singh 
 Jyoti Pandey   
 Ronika Das     
 Nidhi Wadhwa   
